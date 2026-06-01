@@ -46,3 +46,6 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 ## Getting Started with Development
 To get started with development, make sure you have Node.js (>=14) and npm installed.
 Then, run `npm install` to install the dependencies, and `npm run dev` to start the development server.
+
+## Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request. We appreciate any contributions, whether it's a bug fix, new feature, or documentation improvement. Before submitting a pull request, please make sure to run `npm run lint` to ensure your code adheres to our coding standards.
