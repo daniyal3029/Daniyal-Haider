@@ -54,4 +54,4 @@ If you'd like to contribute to this project, please fork the repository and subm
 [![Netlify Status](https://api.netlify.com/api/v1/badges/REPLACE_WITH_NETLIFY_BADGE_ID/deploy-status)](https://app.netlify.com/sites/REPLACE_WITH_NETLIFY_SITE_NAME/deploys)
 [![CodeFactor](https://www.codefactor.io/repository/github/daniyal3029/daniyal-haider/badge)](https://www.codefactor.io/repository/github/daniyal3029/daniyal-haider)
 ## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License.
